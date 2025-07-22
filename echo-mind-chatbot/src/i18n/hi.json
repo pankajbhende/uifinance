@@ -9,4 +9,9 @@
   "voiceAssessment": "आगे बढ़ें, मैं सुन रहा हूँ...",
   "login": "लॉगिन",
   "signup": "साइन अप"
+  "taxQuestion": "कितना कर भरना चाहिए?",
+  "submit": "जमा करें",
+  "age": "आयु",
+  "isMinority": "अल्पसंख्यक है",
+  "salary": "वेतन"
 }
