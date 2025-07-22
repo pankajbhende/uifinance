@@ -1,4 +1,4 @@
-const BACKEND_URL = 'https://financialin-1339752296.europe-west1.run.app';
+const BACKEND_URL = 'https://financialinc-1339752296.asia-south1.run.app';
 
 export interface AskRequest {
   age: number;
