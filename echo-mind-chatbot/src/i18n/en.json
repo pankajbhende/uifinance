@@ -6,5 +6,10 @@
   "talkWith": "Talk with Echo Mind",
   "topics": "Topics",
   "history": "History",
-  "voiceAssessment": "Go ahead, I'm listening..."
+  "voiceAssessment": "Go ahead, I'm listening...",
+  "taxQuestion": "किती कर भरावा लागेल?",
+  "submit": "सबमिट करा",
+  "age": "वय",
+  "isMinority": "अल्पसंख्याक आहे का",
+  "salary": "पगार"
 }
