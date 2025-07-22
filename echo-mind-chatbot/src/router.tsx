@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import Welcome from './components/Welcome';
 import ChatOptions from './components/ChatOptions';
-import VoiceAssistant from '.components/VoiceAssistant';
+import VoiceAssistant from './components/VoiceAssistant';
 import App from './App';
 
 export default function AppRouter() {
