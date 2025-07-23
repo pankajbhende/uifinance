@@ -12,6 +12,7 @@ export default function AppRouter() {
       <Route path="/voice" element={<VoiceAssistant />} />
       {/* Optional: Direct chat route for future use */}
       {/* <Route path="/chat/echo" element={<ChatWindow />} /> */}
+      <Route path="/chat/echo" element={<ChatPage />} />
     </Routes>
   );
 }
