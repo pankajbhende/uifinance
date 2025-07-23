@@ -3,7 +3,6 @@ import Welcome from './components/Welcome';
 import ChatOptions from './components/ChatOptions';
 import VoiceAssistant from './components/VoiceAssistant';
 import App from './App';
-import ChatPage from './components/ChatPage';
 
 export default function AppRouter() {
   return (
@@ -13,7 +12,6 @@ export default function AppRouter() {
       <Route path="/voice" element={<VoiceAssistant />} />
       {/* Optional: Direct chat route for future use */}
       {/* <Route path="/chat/echo" element={<ChatWindow />} /> */}
-      <Route path="/chat/echo" element={<ChatPage />} />
     </Routes>
   );
 }
