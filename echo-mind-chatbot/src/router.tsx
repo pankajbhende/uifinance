@@ -3,6 +3,7 @@ import Welcome from './components/Welcome';
 import ChatOptions from './components/ChatOptions';
 import VoiceAssistant from './components/VoiceAssistant';
 import App from './App';
+import ChatPage from './components/ChatPage';
 
 export default function AppRouter() {
   return (
